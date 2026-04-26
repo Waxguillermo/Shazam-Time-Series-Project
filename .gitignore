@@ -1,0 +1,28 @@
+# Dataset (download separately, see README)
+fma_small/
+
+# Generated catalogs
+*.pkl
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
